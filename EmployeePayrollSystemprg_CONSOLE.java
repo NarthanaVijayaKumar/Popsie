@@ -22,7 +22,7 @@ class Employee {
         this.deduction = deduction;
     }
 
-    // Getters
+
     public int getId() {
         return id;
     }
@@ -51,7 +51,7 @@ class Employee {
         return deduction;
     }
 
-    // Setters
+    
     public void setName(String name) {
         this.name = name;
     }
@@ -76,7 +76,7 @@ class Employee {
         this.deduction = deduction;
     }
 
-    // Net Salary
+
     public double calculateNetSalary() {
         return basicSalary + hra + da - deduction;
     }
