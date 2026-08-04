@@ -26,11 +26,11 @@
 
 ###### &#x20;      Read the user's choice.
 
-##### If Add Employee:
+##### 2.If Add Employee:
 
 ###### &#x20;   Enter Employee ID, Name, Basic Salary, Allowance, and Deduction.
 
-##### 2.Calculate:
+##### 3.Calculate:
 
 ###### &#x20;   Gross Salary = Basic Salary + Allowance 
 
@@ -40,7 +40,7 @@
 
 ###### &#x20;   Store it in the HashMap using Employee ID as the key.
 
-##### 3.If View Employee:
+##### 4.If View Employee:
 
 ###### &#x20;   Enter Employee ID.
 
@@ -50,7 +50,7 @@
 
 ###### &#x20;   Otherwise, display "Employee not found."
 
-##### 4.If Update Employee:
+##### 5.If Update Employee:
 
 ###### &#x20;   Enter Employee ID.
 
@@ -62,7 +62,7 @@
 
 ###### &#x20;   Save the updated object in the HashMap.
 
-##### 5.If Delete Employee:
+##### 6.If Delete Employee:
 
 ###### &#x20;   Enter Employee ID.
 
@@ -76,7 +76,7 @@
 
 ###### &#x20;   Display the details of every employee.
 
-##### 6.If Exit:
+##### 7.If Exit:
 
 ###### &#x20;   Stop the program.
 
